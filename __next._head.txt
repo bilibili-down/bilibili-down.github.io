@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/80e12d8ac6e4a924.js"],"ViewportBoundary"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/80e12d8ac6e4a924.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"S8UNX0KEqdGQbY2SI3Mu2","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"Bilibili-Down - 现代化的哔哩哔哩视频下载工具"}],["$","meta","1",{"name":"description","content":"一个现代化的哔哩哔哩视频下载工具，支持高质量视频下载、音频提取、多线程下载等功能。使用 Rust 开发，基于 egui 图形界面框架构建。"}]]
